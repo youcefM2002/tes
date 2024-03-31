@@ -10,18 +10,15 @@ body {
     background: #262a2f;
 }
 
-.Titre {
-    width: 100%;
-    height: 5px;
-    background: #494eea;
-    color: #fff;
-    border: 0;
-    outline: 0;
-    border-radius: 5px;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
-    cursor: pointer;
-    margin: 20px 0;
-    font-weight: 500;
+.site-name {
+    font-size: 24px; /* Taille de la police */
+    font-weight: bold; /* Poids de la police */
+    color: #FFF; /* Couleur du texte */
+    position: absolute; /* Position absolue pour le placer dans le coin supérieur gauche */
+    top: 10px; /* Distance du haut */
+    left: 10px; /* Distance de la gauche */
+}
+
     
 
 .container {
