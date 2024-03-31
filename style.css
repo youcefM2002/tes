@@ -25,7 +25,8 @@ body {
     font-weight: 600;
     font-size: 15px;
     margin-bottom: 8px;
-    background: #FFF;
+    background: #262a2f;
+    color: #FFF;
 }
 
 .container input {
