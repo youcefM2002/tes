@@ -13,7 +13,7 @@ body {
 .site-name {
     font-size: 24px; /* Taille de la police */
     font-weight: bold; /* Poids de la police */
-    color: #FFF; /* Couleur du texte */
+    color: #FFF; 
     position: absolute; /* Position absolue pour le placer dans le coin supérieur gauche */
     top: 10px; /* Distance du haut */
     left: 10px; /* Distance de la gauche */
