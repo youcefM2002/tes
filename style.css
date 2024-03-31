@@ -25,6 +25,7 @@ body {
     font-weight: 600;
     font-size: 15px;
     margin-bottom: 8px;
+    background: #fff;
 }
 
 .container input {
@@ -35,8 +36,6 @@ body {
     padding: 10px;
     margin: 10px 0 20px;
     border-radius: 5px;
-    color: #494eea;
-    background: #fff;
 }
 
 .container button {
